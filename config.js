@@ -287,5 +287,17 @@ module.exports = {
         decimals: 18,
       },
     },
+    netId11155111: {
+      eth: {
+        instanceAddress: {
+          0.1: '0x1572AFE6949fdF51Cb3E0856216670ae9Ee160Ee',
+          1: '0x1572AFE6949fdF51Cb3E0856216670ae9Ee160Ee',
+          10: '0x1572AFE6949fdF51Cb3E0856216670ae9Ee160Ee',
+          100: '0x1572AFE6949fdF51Cb3E0856216670ae9Ee160Ee',
+        },
+        symbol: 'ETH',
+        decimals: 18,
+      },
+    },
   },
 }
